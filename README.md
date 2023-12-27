@@ -28,4 +28,4 @@ Once a DAO is selected, the frontend displays comprehensive details about the DA
 
 
 [Deployed Frontend](https://q-dao-front-end.vercel.app/)
-[DAO_REGISTRY_ADDRESS]`0x8f338e1c7377452DA5B44Ee3f0eFb1e33723A148`
+`0x8f338e1c7377452DA5B44Ee3f0eFb1e33723A148`
